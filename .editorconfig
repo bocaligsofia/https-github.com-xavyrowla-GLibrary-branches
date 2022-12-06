@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# BC40014: Member conflicts with a member implicitly declared for property or event in the base type
+dotnet_diagnostic.BC40014.severity = none
